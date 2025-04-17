@@ -1,0 +1,23 @@
+{"Time":"2025-04-06T10:55:49.632818529+01:00","Action":"start","Package":"github.com/kaputi/dfiles"}
+{"Time":"2025-04-06T10:55:49.632906976+01:00","Action":"start","Package":"github.com/kaputi/dfiles/cmd"}
+{"Time":"2025-04-06T10:55:49.639390119+01:00","Action":"output","Package":"github.com/kaputi/dfiles","Output":"\tgithub.com/kaputi/dfiles\t\tcoverage: 0.0% of statements\n"}
+{"Time":"2025-04-06T10:55:49.639435414+01:00","Action":"output","Package":"github.com/kaputi/dfiles/cmd","Output":"\tgithub.com/kaputi/dfiles/cmd\t\tcoverage: 0.0% of statements\n"}
+{"Time":"2025-04-06T10:55:49.640781867+01:00","Action":"pass","Package":"github.com/kaputi/dfiles","Elapsed":0.008}
+{"Time":"2025-04-06T10:55:49.640831631+01:00","Action":"pass","Package":"github.com/kaputi/dfiles/cmd","Elapsed":0.008}
+{"Time":"2025-04-06T10:55:49.734999768+01:00","Action":"start","Package":"github.com/kaputi/dfiles/core"}
+{"Time":"2025-04-06T10:55:49.7351066+01:00","Action":"start","Package":"github.com/kaputi/dfiles/daemon"}
+{"Time":"2025-04-06T10:55:49.736281649+01:00","Action":"run","Package":"github.com/kaputi/dfiles/core","Test":"TestRe"}
+{"Time":"2025-04-06T10:55:49.736296317+01:00","Action":"output","Package":"github.com/kaputi/dfiles/core","Test":"TestRe","Output":"=== RUN   TestRe\n"}
+{"Time":"2025-04-06T10:55:49.736325302+01:00","Action":"output","Package":"github.com/kaputi/dfiles/core","Test":"TestRe","Output":"Patterns:\n"}
+{"Time":"2025-04-06T10:55:49.736330632+01:00","Action":"output","Package":"github.com/kaputi/dfiles/core","Test":"TestRe","Output":"^.*\\.log$\n"}
+{"Time":"2025-04-06T10:55:49.736335381+01:00","Action":"output","Package":"github.com/kaputi/dfiles/core","Test":"TestRe","Output":"^node_modules/$\n"}
+{"Time":"2025-04-06T10:55:49.736338847+01:00","Action":"output","Package":"github.com/kaputi/dfiles/core","Test":"TestRe","Output":"^.*\\.tmp$\n"}
+{"Time":"2025-04-06T10:55:49.736342494+01:00","Action":"output","Package":"github.com/kaputi/dfiles/core","Test":"TestRe","Output":"^dist$\n"}
+{"Time":"2025-04-06T10:55:49.736352834+01:00","Action":"output","Package":"github.com/kaputi/dfiles/core","Test":"TestRe","Output":"--- PASS: TestRe (0.00s)\n"}
+{"Time":"2025-04-06T10:55:49.736359687+01:00","Action":"pass","Package":"github.com/kaputi/dfiles/core","Test":"TestRe","Elapsed":0}
+{"Time":"2025-04-06T10:55:49.736366028+01:00","Action":"output","Package":"github.com/kaputi/dfiles/core","Output":"PASS\n"}
+{"Time":"2025-04-06T10:55:49.736682145+01:00","Action":"output","Package":"github.com/kaputi/dfiles/daemon","Output":"\tgithub.com/kaputi/dfiles/daemon\t\tcoverage: 0.0% of statements\n"}
+{"Time":"2025-04-06T10:55:49.736757999+01:00","Action":"output","Package":"github.com/kaputi/dfiles/core","Output":"coverage: 34.8% of statements\n"}
+{"Time":"2025-04-06T10:55:49.737005967+01:00","Action":"output","Package":"github.com/kaputi/dfiles/core","Output":"ok  \tgithub.com/kaputi/dfiles/core\t0.002s\tcoverage: 34.8% of statements\n"}
+{"Time":"2025-04-06T10:55:49.737014593+01:00","Action":"pass","Package":"github.com/kaputi/dfiles/core","Elapsed":0.002}
+{"Time":"2025-04-06T10:55:49.737822038+01:00","Action":"pass","Package":"github.com/kaputi/dfiles/daemon","Elapsed":0.003}
